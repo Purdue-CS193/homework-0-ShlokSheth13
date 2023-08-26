@@ -23,7 +23,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Purdue University is one of the top 10 universities** and _Coding is really fun and interesting_ and `Chandrayaan 3 was a success` text
+**Purdue University is one of the top 10 universities** and _Coding is really fun_ and `Chandrayaan 3 was a success` text
 
 [This video is amazing](https://www.youtube.com/watch?v=Ey5FuGjLiX4) 
 ```
