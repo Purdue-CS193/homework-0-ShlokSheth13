@@ -4,28 +4,33 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Shlok's First CS193 Hoomework
+## Bulleted List
+- Amazing class filled with enthusiastic students who are eager to learn coding.
+- A superb team of TA's who are always ready to assist.
+- An informative and organised session to help us more with coding.
+
+
+###Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-#<Shlok Sheth>'s First CS193 Homework.
-## India and USA have good relations.
-### I love my university.
+#
+##
+###
 
 - Bulleted
-- Amazing class filled with enthusiastic students who are eager to learn coding.
-- A superb team of TA's who are always ready to assist.
-- An informative and organised session to help us more with coding.
+- List
 
 1. Numbered
 2. List
 
-**Purdue University is one of the top 10 universities** and _Coding is really fun_ and `Chandrayaan 3 was a success` text
+**Bold** and _Italic_ and `Code` text
 
-[This video is amazing](https://www.youtube.com/watch?v=Ey5FuGjLiX4) 
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
